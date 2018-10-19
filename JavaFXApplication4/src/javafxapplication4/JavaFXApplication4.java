@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Julen Zarate
+ * @author Julen Zarate, Paula Lopez
  */
 public class JavaFXApplication4 extends Application {
     
